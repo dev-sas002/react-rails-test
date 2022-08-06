@@ -33,3 +33,6 @@
 # Local sqlite databases
 /rails_exam_development
 /rails_exam_test
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
